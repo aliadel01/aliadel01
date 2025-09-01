@@ -26,36 +26,8 @@ I care deeply about **high-quality schemas, efficient storage, and great develop
 
 ---
 
-## 🎓 Education
-
-**Alexandria University** — BS in Data Science  
-- College of Computers and Data Science  
-- Cum. GPA: 3.95 / 4.0  
-- Graduation: June 2028  
-
-**Relevant Coursework:**  
-- Associate Data Engineer (30 hrs, DataCamp)  
-- SQL Fundamentals (26 hrs, DataCamp)  
-- Python Data Fundamentals (28 hrs, DataCamp)
-
----
-
-## 💼 Experience
-
-**DEPI | Data Engineer Trainee**  
-*June 2025 – Dec 2025 | Alexandria, Egypt*  
-- Built **end-to-end data pipelines** using Azure Data Factory & Azure Synapse Analytics  
-- Designed **relational data warehouses** with SQL Server & Azure SQL DW  
-- Developed and debugged **ETL workflows** using SSIS & Delta Lake  
-- Analyzed and visualized **real-time data streams** using Azure Stream Analytics & Power BI  
-- Applied **Python & Pandas** for data wrangling, manipulation, and CSV processing  
-- Practiced **MLOps** with MLflow & Hugging Face for model tracking, deployment, CI/CD  
-- Gained hands-on experience with **Azure Data Lake Gen2, Azure Databricks, and Microsoft Fabric**
-
----
-
-## 🚀 Projects
-
+## 🚀 Links
+**[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)**
 **[Portfolio](https://aliadel.odoo.com)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](https://www.linkedin.com/in/aliadel)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
 *(Add project cards here later with short descriptions and links if desired)*
