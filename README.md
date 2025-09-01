@@ -27,7 +27,7 @@ I care deeply about **high-quality schemas, efficient storage, and great develop
 ---
 
 ## 🚀 Links
-**[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)**
+**[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)** | 
 **[Portfolio](https://aliadel.odoo.com)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](https://www.linkedin.com/in/aliadel)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
 *(Add project cards here later with short descriptions and links if desired)*
