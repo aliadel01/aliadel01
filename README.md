@@ -16,9 +16,9 @@ I care deeply about **high-quality schemas, efficient storage, and great develop
 ---
 ## 🚀 Projects
 
-### [Samsung Products Web Scraper – Noon Egypt](https://github.com/aliadel01/noon-samsung-scraper)
+### [Amazon Scraper](https://github.com/aliadel01/Amazon-Product-Scraper.git)
 Built a Python web scraperto extract product details (name, price,rating, etc.) from
-Noon Egypt.
+Amazon.
 
 ---
 
