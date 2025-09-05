@@ -42,11 +42,6 @@ Amazon.
 ## 📫 Contact Me
 
 - ✉️ Email: aliadel.engineer@gmail.com  
-- 📞 Phone: +201276685990  
+- **[LinkedIn](https://www.linkedin.com/in/aliadel)**
 
----
-
-## 📈 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliadel01&show_icons=true&theme=radical)
 
