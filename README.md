@@ -35,13 +35,13 @@ Amazon.
 
 ## 🚀 Links
 **[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)** | 
-**[Portfolio](https://aliadel.odoo.com)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](https://www.linkedin.com/in/aliadel)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
+**[Portfolio](https://aliadel01.github.io/Ali-Adel/)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](www.linkedin.com/in/aliadel01)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
 ---
 
 ## 📫 Contact Me
 
 - ✉️ Email: aliadel.engineer@gmail.com  
-- **[LinkedIn](https://www.linkedin.com/in/aliadel)**
+- **[LinkedIn](www.linkedin.com/in/aliadel01)**
 
 
