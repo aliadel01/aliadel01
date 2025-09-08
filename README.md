@@ -35,7 +35,7 @@ Amazon.
 
 ## 🚀 Links
 **[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)** | 
-**[Portfolio](https://aliadel01.github.io/Ali-Adel/)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](www.linkedin.com/in/aliadel01)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
+**[Portfolio](https://ali-adel.netlify.app/)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](www.linkedin.com/in/aliadel01)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
 ---
 
