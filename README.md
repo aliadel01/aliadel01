@@ -25,8 +25,11 @@ Amazon.
 ## 🛠 Skills & Technologies
 
 **Programming:** Python • SQL • Shell • C++ • R • Java • C#  
+
 **Data Visualization:** Power BI • Streamlit
+
 **Tools & Platforms:** Docker • Snowflake
+
 **Web Scraping:** HTML • CSS • JS • BeautifulSoup • Selenium  
 
 ---
