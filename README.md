@@ -16,7 +16,7 @@ I care deeply about **high-quality schemas, efficient storage, and great develop
 ---
 ## 🚀 Projects
 
-### [Amazon Scraper](https://github.com/aliadel01/Amazon-Product-Scraper.git)
+### [Amazon Products Scraper](https://github.com/aliadel01/Amazon-Product-Scraper.git)
 Built a Python web scraperto extract product details (name, price,rating, etc.) from
 Amazon.
 
@@ -24,13 +24,10 @@ Amazon.
 
 ## 🛠 Skills & Technologies
 
-**Languages:** Python • SQL • Shell • C++ • R • Java • C#  
-**Data Visualization:** Power BI  
-**Tools & Platforms:** Docker • Snowflake • Azure Data Factory • Azure Synapse Analytics • Azure Databricks • Microsoft Fabric  
+**Programming:** Python • SQL • Shell • C++ • R • Java • C#  
+**Data Visualization:** Power BI • Streamlit
+**Tools & Platforms:** Docker • Snowflake
 **Web Scraping:** HTML • CSS • JS • BeautifulSoup • Selenium  
-**Soft Skills:** Problem Solving • Communication • Teamwork • Time Management • Adaptability • Critical Thinking  
-**Languages:** Arabic (Native) • English (Fluent)
-
 ---
 
 ## 🚀 Links
