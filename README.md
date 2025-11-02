@@ -28,7 +28,7 @@ Amazon.
 
 **Data Visualization:** Power BI • Streamlit
 
-**Tools & Platforms:** Docker • Snowflake
+**Tools & Platforms:** Azure • Docker • Snowflake • dbt • Airflow
 
 **Web Scraping:** HTML • CSS • JS • BeautifulSoup • Selenium  
 
