@@ -8,10 +8,10 @@ I care deeply about **high-quality schemas, efficient storage, and great develop
 ---
 
 ## 📊 About Me
-- 💻 Data Engineer passionate about building **robust, observable data systems**  
-- 🔍 Skilled at **designing reliable data pipelines, optimizing data flows**, and ensuring scalable storage  
-- 📈 Experience in **statistical and business analysis** to uncover actionable insights  
-- 🌍 Based in **Alexandria, Egypt**
+Results-driven Data Engineer in designing and implementing scalable data platforms and pipelines. Proficient in
+Python, SQL, and big data technologies, with a strong focus on building high-quality, automated data solutions.
+Passionate about leveraging data to drive business impact, with a proven track record of delivering scalable data
+systems in cloud environments.
 
 ---
 ## 🚀 Projects
@@ -24,13 +24,11 @@ Amazon.
 
 ## 🛠 Skills & Technologies
 
-**Programming:** Python • SQL • Shell • C++ • R • Java • C#  
-
-**Data Visualization:** Power BI • Streamlit
-
-**Tools & Platforms:** Azure • Docker • Snowflake • dbt • Airflow
-
-**Web Scraping:** HTML • CSS • JS • BeautifulSoup • Selenium  
+**Programming**: Python, SQL, Git, Shell, Java, R, C++
+**Cloud & Big Data Tools**: Azure, dbt, Airflow, Kestra, Snowflake, Docker
+**Data Engineering**: Pipeline Architecture Development, Data Modeling, Data Warehouse
+**Data Analysis & Visualization**: Power BI, Streamlit
+**Web Scraping**: Selenium, BeautifulSoup
 
 ---
 
