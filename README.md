@@ -25,9 +25,13 @@ Amazon.
 ## 🛠 Skills & Technologies
 
 **Programming**: Python, SQL, Git, Shell, Java, R, C++
+
 **Cloud & Big Data Tools**: Azure, dbt, Airflow, Kestra, Snowflake, Docker
+
 **Data Engineering**: Pipeline Architecture Development, Data Modeling, Data Warehouse
+
 **Data Analysis & Visualization**: Power BI, Streamlit
+
 **Web Scraping**: Selenium, BeautifulSoup
 
 ---
