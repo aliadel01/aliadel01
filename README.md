@@ -44,7 +44,7 @@ Amazon.
 
 ## 📫 Contact Me
 
-- ✉️ Email: aliadel.engineer@gmail.com  
+- aliadel.engineer@gmail.com  
 - **[LinkedIn](www.linkedin.com/in/aliadel01)**
 
 
