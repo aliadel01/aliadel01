@@ -16,6 +16,9 @@ systems in cloud environments.
 ---
 ## 🚀 Projects
 
+### [modern-data-stack-pipeline](https://github.com/aliadel01/modern-data-stack-pipeline)
+A robust, end-to-end data pipeline built with the modern data stack. It extracts raw data using Python, loads it into Snowflake, transforms it using dbt, and orchestrates the entire workflow with Apache Airflow (running on Astronomer).
+
 ### [Amazon Products Scraper](https://github.com/aliadel01/Amazon-Product-Scraper.git)
 Built a Python web scraperto extract product details (name, price,rating, etc.) from
 Amazon.
