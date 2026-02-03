@@ -9,30 +9,36 @@ systems in cloud environments.
 ---
 ## 🚀 [Featured Projects](https://github.com/stars/aliadel01/lists/featured-projects)
 ---
-
 ## 🛠 Skills & Technologies
 
-**Programming**: Python, SQL, Git, Shell, Java, R, C++
+**Programming**  
+Python • SQL • Shell • R • C++
 
-**Cloud & Big Data Tools**: Azure, dbt, Airflow, Kestra, Snowflake, Docker
+**Big Data Tools**  
+dbt • Airflow • Snowflake
 
-**Data Engineering**: Pipeline Architecture Development, Data Modeling, Data Warehouse
+**Azure Cloud**  
+Synapse • Data Factory • SQL Database
 
-**Data Analysis & Visualization**: Power BI, Streamlit
+**Core Data Engineering Skills**  
+Pipeline Architecture Development • Data Modeling • Data Warehouse
 
-**Web Scraping**: Selenium, BeautifulSoup
+**Data Visualization**  
+Power BI • Streamlit
+
+**General Tools**  
+Docker • Git • Terraform
+
+**Libraries**  
+BeautifulSoup • Selenium • Pandas • Numpy • Matplotlib • Plotly
 
 ---
-
 ## 🚀 Links
 **[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)** | 
 **[Portfolio](https://ali-adel.netlify.app/)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](www.linkedin.com/in/aliadel01)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
 ---
-
 ## 📫 Contact Me
 
 - aliadel.engineer@gmail.com  
 - **[LinkedIn](www.linkedin.com/in/aliadel01)**
-
-
