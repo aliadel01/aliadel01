@@ -7,7 +7,7 @@ Passionate about leveraging data to drive business impact, with a proven track r
 systems in cloud environments.
 
 ---
-## 🚀 [Featured Projects](https://github.com/stars/aliadel01/lists/featured-projects)
+## 🚀 [Featured Projects ->](https://github.com/stars/aliadel01/lists/featured-projects)
 ---
 ## 🛠 Skills & Technologies
 
@@ -15,7 +15,7 @@ systems in cloud environments.
 Python • SQL • Shell • R • C++
 
 **Big Data Tools**  
-dbt • Airflow • Snowflake
+PySpark • Databricks • dbt • Airflow • Snowflake
 
 **Azure Cloud**  
 Synapse • Data Factory • SQL Database
