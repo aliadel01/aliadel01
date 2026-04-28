@@ -1,11 +1,6 @@
 # Hi there, I'm Ali 👋
 ### Junior Data Engineer & Data Analyst | Building Reliable Data Platforms
 
-Results-driven Data Engineer in designing and implementing scalable data platforms and pipelines. Proficient in
-**Python**, **SQL**, and **big data** technologies, with a strong focus on building high-quality, **automated** data solutions.
-Passionate about leveraging data to drive business impact, with a proven track record of delivering scalable data
-systems in cloud environments.
-
 ---
 ## 🚀 [Featured Projects ->](https://github.com/stars/aliadel01/lists/featured-projects)
 ---
@@ -15,7 +10,7 @@ systems in cloud environments.
 Python • SQL • Shell • R • C++
 
 **Big Data Tools**  
-PySpark • Databricks • dbt • Airflow • Snowflake
+PySpark • Databricks • dbt • Airflow • Snowflake • Kafka 
 
 **Azure Cloud**  
 Synapse • Data Factory • SQL Database
