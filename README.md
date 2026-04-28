@@ -1,5 +1,5 @@
-# Hi there, I'm Ali 👋
-### Junior Data Engineer & Data Analyst | Building Reliable Data Platforms
+# Hi there, I'm Ali, Junior Data Engineer & Data Analyst | Building Reliable Data Platforms
+I build Data Products. 
 
 ---
 ## 🚀 [Featured Projects ->](https://github.com/stars/aliadel01/lists/featured-projects)
