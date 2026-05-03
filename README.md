@@ -2,7 +2,11 @@
 I build Data Products. 
 
 ---
-## 🚀 [Featured Projects ->](https://github.com/stars/aliadel01/lists/featured-projects)
+## 🚀 Featured Projects
+- [Modern Data Stack Pipeline](https://github.com/aliadel01/modern-data-stack-pipeline)
+  - Airflow, dbt, Snowflake
+  - A modern end-to-end data pipeline that ingests raw data with Python, loads it
+  into Snowflake, transforms it using dbt. Orchestrated workflows with Airflow.
 ---
 ## 🛠 Skills & Technologies
 
@@ -27,8 +31,6 @@ Docker • Git • Terraform
 **Libraries**  
 BeautifulSoup • Selenium • Pandas • Numpy • Matplotlib • Plotly
 
----
-## 🚀 Links
 **[Resume](https://drive.google.com/file/d/1lgcOAnXMULWHmk0hSmoPj6m9LpSg4Hdx/view)** | 
 **[Portfolio](https://ali-adel.netlify.app/)** | **[GitHub](https://github.com/aliadel01)** | **[LinkedIn](www.linkedin.com/in/aliadel01)** | **[Kaggle](https://www.kaggle.com/aliadel01)**  
 
